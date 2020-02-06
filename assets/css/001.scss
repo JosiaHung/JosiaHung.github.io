@@ -1,9 +1,11 @@
 ---
 ---
 
+$url: "{{ site.url }}";
+
 @import "reset";
 @import "main";
 
 .default_title {
-	background: #00007f;
+    background: #00007f;
 }

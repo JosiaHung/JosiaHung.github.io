@@ -1,11 +1,13 @@
-# Windows 95 Theme for Jekyll
+# Zinan Lin's Homepage
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+Run `bundle` to install dependencies.
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+Run `jekyll serve` to preview the website on http://localhost:4000.
 
-Demo: [Click here](https://h01000110.github.io/windows-95/)
+Run `jekyll build` to generate the website files under `_site` folder.
 
-Author: [h01000110 (hi)](https://github.com/h01000110)
+Hosted on
+* http://www.andrew.cmu.edu/user/zinanl/
+* http://zinanlin.me
 
-License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+This website is powered by <a href="https://jekyllrb.com/" target="_blank">jekyll</a> (<a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License</a>), and is developed based on two amazing Windows95 theme projects on github by <a href="https://github.com/rn10950/Windows95-HTML" target="_blank">rn10950</a> and <a href="https://github.com/h01000110/windows-95" target="_blank">h01000110</a> (<a href="https://github.com/h01000110/windows-95/blob/master/LICENSE" target="_blank">MIT License</a>).
